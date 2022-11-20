@@ -63,7 +63,7 @@ I'm a Full Stack Web developer with in-depth knowledge of multiple programming l
 <a href="https://www.atlassian.com/" target="_blank"> <img src="https://img.shields.io/badge/confluence-2684ff?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence"/> </a>
 <a href="https://gulpjs.com/" target="_blank"> <img src="https://img.shields.io/badge/gulpjs-cf4647?style=for-the-badge&logo=gulp&logoColor=white" alt="gulp"/> </a>
 <a href="https://webpack.js.org" target="_blank"> <img src="https://img.shields.io/badge/-Webpack-1e72b3?style=for-the-badge&logo=webpack&logoColor=white" alt="webpack"/> </a>
-
+<a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/-NPM-c52241?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/> </a>
 
 
 ### Work Experience 🧑‍🏭
